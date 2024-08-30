@@ -74,6 +74,11 @@ button {
     border-radius: 7px;
 }
 
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
 .stats-container{
     display: flex;
     align-items: center;
